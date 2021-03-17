@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 :school_satchel: I'm third year Computer Science student at Cracow University of Technology.
 
-:computer: My favourite language is C#, and I try to expand my .Net knowledge every day.
+:computer: My favourite language is C#, and I try to expand my .NET knowledge every day.
 
 📫 How to reach me: 
 contact.kniemiec@gmail.com
