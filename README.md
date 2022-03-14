@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:school_satchel: I'm third year Computer Science student at Cracow University of Technology.
+:school_satchel: I'm fourth year Computer Science student at Cracow University of Technology.
 
 :computer: My favourite language is C#, and I try to expand my .NET knowledge every day.
 
